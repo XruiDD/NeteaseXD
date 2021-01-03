@@ -1,0 +1,3 @@
+# NeteaseXD
+NeteaseXD 是通过反编译网易使用反编译器修改网易WPFLuanher.exe函数体并保存来实现的作弊工具。
+只有主程序源码了，WPFLuancher被我搞丢了
